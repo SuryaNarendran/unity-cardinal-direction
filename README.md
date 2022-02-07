@@ -47,3 +47,7 @@ CardinalDirection2D closestDirection = CardinalDirection.RoundedFromVector(new V
 Vector2 product = direction * 4.3f;
 Vector2Int sum = direction + 2 * anotherDirection;
 ```
+
+## Credits
+
+Placeholder image by Kingshemboo on OpenGameArt - https://opengameart.org/content/sci-fi-hover-tank
