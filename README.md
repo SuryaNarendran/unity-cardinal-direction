@@ -12,6 +12,8 @@ public CardinalDirection2D direction;
 ```
 This allows you to select a direction using an enum in the inspector.
 
+![screenshot](inspector-carddir-screenshot.png)
+
 Which can then be used in operations like a regular vector.
 ```
 transform.position += direction;
